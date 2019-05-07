@@ -1,0 +1,5 @@
+c:\users\briñas\documents\visual studio 2015\Projects\Fibonacci\Factorial Number\bin\Debug\Factorial Number.exe.config
+c:\users\briñas\documents\visual studio 2015\Projects\Fibonacci\Factorial Number\bin\Debug\Factorial Number.exe
+c:\users\briñas\documents\visual studio 2015\Projects\Fibonacci\Factorial Number\bin\Debug\Factorial Number.pdb
+c:\users\briñas\documents\visual studio 2015\Projects\Fibonacci\Factorial Number\obj\Debug\Factorial Number.exe
+c:\users\briñas\documents\visual studio 2015\Projects\Fibonacci\Factorial Number\obj\Debug\Factorial Number.pdb
